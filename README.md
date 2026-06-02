@@ -1,1 +1,1 @@
-# RollCall_AI_Attendance_App
+# RollCall: AI Attendance App
